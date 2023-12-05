@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @VRhz07
 - 👀 I’m interested in Software Development 
 - 🌱 I’m currently learning HTML, JAVA,and SQL
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 VRhz07/VRhz07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
