@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VRhz07
-- 👀 I’m interested in Software Development 
-- 🌱 I’m currently learning HTML, JAVA,and SQL
+- 👀 I’m interested in Software and Hardware troubleshooting
+- 🌱 I’m currently learning Web Development.
 
 
 <!---
